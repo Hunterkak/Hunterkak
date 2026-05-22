@@ -1,109 +1,82 @@
-# ⚡ CryptoDropScout
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hunterkak/Hunterkak/main/cds.jpg" width="180"/>
+# ⚡ CryptoDropScout
 
-# 🪂 Web3 Infrastructure Explorer
+### Web3 Infrastructure Operator
 
-### ⚡ Node Runner • Automation Builder • Alpha Hunter
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Running+Early+Infrastructure;Building+Automation+Systems;Exploring+Quantum+Networks;Farming+Alpha+Since+Day+0)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Running+Nodes+Since+Day+0;Exploring+Early+Infrastructure;Building+Automation+Systems;Web3+%7C+VPS+%7C+Linux+%7C+Alpha" />
 
 </div>
 
 ---
 
-# 🧠 System Identity
-
 ```yaml
-Role: Web3 Infrastructure Operator
-Focus: Nodes • Automation • Alpha Research
-OS: Ubuntu / Linux
-Tools: Bash • Docker • VPS • GitHub
-Status: Exploring Early Ecosystems
+Operator: CryptoDropScout
+
+Focus:
+  - Node Infrastructure
+  - VPS Automation
+  - Web3 Research
+  - Alpha Hunting
+
+Environment:
+  - Ubuntu
+  - Linux
+  - Docker
+  - Bash
+
+Status: ACTIVE
 ```
 
 ---
 
-# ⚡ Current Operations
+# ⚡ Active Networks
 
-| Network | Status |
+| Network | State |
 |----------|--------|
-| DAC Network | 🟢 Running |
-| Quip Network | 🟢 Running |
-| Quantum Ecosystems | 🟡 Researching |
-| VPS Automation | 🔥 Active |
-| Airdrop Systems | ⚡ Scaling |
+| DAC | 🟢 Online |
+| Quip | 🟢 Online |
+| Quantum Ecosystems | 🟡 Research |
+| VPS Infrastructure | 🔥 Active |
 
 ---
 
-# 🛠️ Arsenal
+# 🛠️ Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,bash" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,github,vscode" />
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Hunterkak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![](https://streak-stats.demolab.com?user=Hunterkak&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
+</p>
 
 ---
 
-# 🧬 Contribution Matrix
+# 📊 Analytics
 
-<div align="center">
+<p align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hunterkak&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true)](https://github.com/Hunterkak)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hunterkak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
+<img height="170" src="https://streak-stats.demolab.com?user=Hunterkak&theme=tokyonight&hide_border=true&background=0D1117"/>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Hunterkak/Hunterkak/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-- ⚡ DAC Node Automation
-- 🖥️ VPS Deployment Scripts
-- 🪂 Airdrop Infrastructure
-- 🤖 One-Command Installers
-- 🔥 Web3 Utility Scripts
+</p>
 
 ---
 
 # 🌐 Connect
 
-<div align="center">
+<p align="center">
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/cryptodrpscout)
+<a href="https://x.com/cryptodrpscout">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
 
-</div>
+</p>
 
 ---
 
-# ⚡ Philosophy
-
 <div align="center">
 
-> “Early infra wins quietly.”
+### ⚡ Early infra wins quietly.
 
 </div>
